@@ -17,8 +17,7 @@ Build Tool:
     CMake (http://www.cmake.org)
     
 Tested Compilers:
-    Microsoft Visual C++ 9.0
-    GNU G++
+    Microsoft Visual C++ 12.0
 	
 # Citing
 If you use this code, please cite the following paper:
