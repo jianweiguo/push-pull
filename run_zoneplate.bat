@@ -1,0 +1,1 @@
+for /R "zoneplate_dir/" %%s in (*) do zoneplate.exe -i %%s -o tmp/result.png -R 512 -z 1.0 -p 4
