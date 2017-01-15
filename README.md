@@ -3,7 +3,8 @@ Push-pull blue-noise sampling
 
 # Description:
 This is the 2D implementation code of our paper "A Simple Push-Pull Algorithm for Blue-Noise Sampling".
-For the data of 2D point sets and surface remshing results, please download them from: http://jianweiguo.net/publications/
+
+For more data of 2D point sets and surface remshing results, please download them from: http://jianweiguo.net/publications/
 
 We also provide the code to generate zoneplate images, which we extract from the Sampling ToolKit project: https://github.com/stk-team/stk
 
